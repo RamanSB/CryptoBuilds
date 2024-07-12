@@ -5,3 +5,6 @@
 [submodule "CoinFlip"]
 	path = CoinFlip
 	url = https://github.com/RamanSB/CoinFlip.git
+[submodule "BaseNerdz"]
+	path = BaseNerdz
+	url = https://github.com/RamanSB/BaseNerdz.git
